@@ -1,0 +1,21 @@
+/* styles.css */
+
+/* Normal button styles */
+button {
+    background: linear-gradient(45deg, rgba(30, 32, 33, 1), rgba(50, 52, 53, 1)); /* Gradient background */
+    color: #fff; /* Text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px; /* Rounder border */
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: monospace; /* Use monospace font */
+  }
+  
+  /* Hover effect */
+  button:hover {
+    background: linear-gradient(45deg, rgba(50, 52, 53, 1), rgba(70, 72, 73, 1)); /* Slightly darker gradient on hover */
+  }
+  

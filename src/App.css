@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.App.dark-mode {
+  background-color: #1c1c1c; /* Dark background color */
+  color: #ffffff; /* White text color */
+}
